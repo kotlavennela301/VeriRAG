@@ -172,13 +172,13 @@ The framework evaluates every response using multiple quality indicators:
 
 ## Author
 
-**Tallapalli Parameswara Reddy**
+**Kotla Vennela**
 
 B.Tech – Robotics and Artificial Intelligence
 
 Amrita Vishwa Vidyapeetham
 
-GitHub: https://github.com/param77777
+GitHub: https://github.com/kotlavennela301
 
 ---
 
